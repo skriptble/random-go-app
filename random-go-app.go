@@ -22,4 +22,5 @@ func main() {
     fmt.Println("Hello World! I AM AWESOME")
     fmt.Println("More awesome than you know!")
     fmt.Println("I actually love writing Go!")
+    fmt.Println("Why you ask? Because it is AWESOME!")
 }
