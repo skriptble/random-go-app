@@ -24,4 +24,5 @@ func main() {
     fmt.Println("I actually love writing Go!")
     fmt.Println("Why you ask? Because it is AWESOME!")
     fmt.Println("Now this is a story all about how my life got flipped-turned upside down.")
+    fmt.Println("If everything relies on context, how can we understand anything about anything?")
 }
