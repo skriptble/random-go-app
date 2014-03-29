@@ -12,7 +12,8 @@ func doStuff(c chan string) {
 }
 
 func doinThoseProcesses(c chan string) {
-
+    something := <- c
+    fmt.Println(something)
 }
 func main() {
     c := make(chan string)
